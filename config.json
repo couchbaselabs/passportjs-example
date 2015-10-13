@@ -1,0 +1,11 @@
+{
+    "couchbase": {
+        "server": "127.0.0.1:8091",
+        "bucket": "passportjs-example"
+    },
+    "facebook": {
+        "client_id": "CLIENT_ID_HERE",
+        "client_secret": "CLIENT_SECRET_HERE",
+        "callback_url": "http://localhost:3000/facebook/callback"
+    }
+}
